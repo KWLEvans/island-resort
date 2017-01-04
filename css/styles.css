@@ -12,6 +12,14 @@ body {
   width: 950px;
 }
 
+.photos img {
+  padding: 35px;
+  padding-top: 195px;
+  align-content: center;
+  height: 200px;
+  width: 400px;
+}
+
 .menu {
   float: left;
   display: inline-block;
