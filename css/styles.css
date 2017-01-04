@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+}
+
+.container {
+  text-align: center;
+  display: inline-block;
+  background-color: rgba(255, 255, 255, 0.5);
+  height: 1000px;
+  border-radius: 10%;
+  padding: 0px 10px;
+  width: 950px;
+}
+
+.menu {
+  float: left;
+  display: inline-block;
+  background-color: white;
+  height: 1000px;
+  margin-right: 30px;
+  padding: 0px 10px;
+}
+
+ul {
+  list-style: none;
+}
